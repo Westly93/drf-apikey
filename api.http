@@ -1,0 +1,3 @@
+GET http://localhost:8000/products/
+Content-Type: application/json
+Authorization: Api-key feEmfCOl.7hVbhClW1UQYqrW0Sj9y8ejrWmGJU8cb
